@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Color Mastermind</string>
+    <string name="win_title">You win!</string>
+    <string name="win_message">You cracked the code 🎉</string>
+
+    <string name="lose_title">Game over</string>
+    <string name="lose_message">The correct code was:</string>
+
+    <string name="restart">New game</string>
+</resources>
